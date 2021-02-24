@@ -1,0 +1,1 @@
+Hellow. Its Weird but this is my first Git Push xD
